@@ -1,2 +1,2 @@
 # WhatsApp-Web
-Whats for desktoop Version
+WhatsApp for desktoop Version
