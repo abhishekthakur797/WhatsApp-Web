@@ -134,7 +134,7 @@
   color: rgb(197, 193, 193);
 }
 /*? For Mobile view*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .right-panel {
     display: none;
   }
