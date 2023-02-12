@@ -20,7 +20,7 @@
 .left-bar {
   display: flex;
   flex-direction: column;
-  width: 411px;
+  width: 23%;
   background-color: rgb(17, 27, 33);
   height: 100%;
 }
@@ -108,7 +108,7 @@
 /*? 2.Right Side Panel*/
 .right-panel {
   background-color: rgb(34, 46, 53);
-  width: 940px;
+  width: 77%;
   display: flex;
   flex-direction: column;
   align-items: center;
